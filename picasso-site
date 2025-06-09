@@ -1,0 +1,80 @@
+picasso-site
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Picasso Haïti - Page Complète</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main>
+    <h1>✅ Fichier ZIP Complet – Picasso Haïti</h1>
+    <p>Tout ce qu’il te faut pour déployer ton projet !</p>
+
+    <h2>🎯 Objectif</h2>
+    <ul>
+      <li>HTML/CSS/JS</li>
+      <li>Guides PDF</li>
+      <li>Contrats Word/Excel</li>
+      <li>WhatsApp bot</li>
+      <li>Pitchdeck</li>
+    </ul>
+
+    <h2>📦 Arborescence</h2>
+    <pre>
+picasso-haiti-all-in-one.zip
+├── web/
+│   ├── index.html
+│   ├── ambassador.html
+│   └── ...
+├── css/
+├── js/
+├── backend/
+├── seo/
+...
+    </pre>
+
+    <h2>📁 Instructions</h2>
+    <ol>
+      <li>Décompresse le fichier ZIP</li>
+      <li>Ouvre le fichier index.html</li>
+      <li>Déploie via Netlify ou Firebase</li>
+    </ol>
+
+    <footer>
+      <p>🚀 Prêt à lancer Picasso Marketplace</p>
+    </footer>
+  </main>
+</body>
+</html>
+
+
+
+
+style.css
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fefdf9;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+main {
+  max-width: 900px;
+  margin: auto;
+}
+h1 {
+  color: #ffb347;
+}
+pre {
+  background: #f4f4f4;
+  padding: 10px;
+  border-radius: 5px;
+  overflow-x: auto;
+}
+ul, ol {
+  margin-left: 20px;
+}
